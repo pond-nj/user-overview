@@ -1,6 +1,6 @@
 # user-overview
 
-"server" is the folder for NodeJS backend. "client" is the folder for React frontend. The npm packages are pushed together with other files. Therefore, ```npm start``` in "server" and "client" should start both services.
+"server" is the folder for NodeJS backend. "client" is the folder for React frontend. The npm packages are pushed together with other files. Therefore, ```npm start``` in both "server" and "client" should start both services.
 
 Backend is hosted on ```http://localhost:3001```.
 Frontend is hosted on ```http://localhost:3000```
